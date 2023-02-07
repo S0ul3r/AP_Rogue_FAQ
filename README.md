@@ -1,3 +1,4 @@
+
 # Always make sure you are not Kyrian covenant! (change to Necrolord, otherwise it will cause rotation to hang)
 # Rogue: All classes
 - Interrupts with offGCD spells like kidney, cheap, gouge might not always work if you have interrupt % > 40
@@ -29,6 +30,29 @@
 - Cooldown toggle is onlt affecting Shadow Blades
 - Burst toggle is affecting all major and minor CDs (I disable burst when tank is gathering packs in M+)
 
+ ## Rupture mob blacklist 
+	-- Raid
+	[191714] = true, -- Seeking Stormling
+	-- RLP
+	[187894] = true, -- Infused Whelp
+	[190205] = true, -- Scorchling
+	[197509] = true, -- Primal Thundercloud
+	-- NO
+	[195579] = true, -- Primal Gust
+	-- AV
+	[187159] = true, -- Shrieking Whelp
+	[191313] = true, -- Volatile Sapling
+	[187242] = true, -- Tarasek Delver
+	-- AA
+	[197398] = true, -- Hungry Lasher
+	-- CoS
+	[104295] = true, -- Blazing Imp
+	[105703] = true, -- Mana Wyrm
+	-- SBG
+	[77006] = true, -- Corpse Skitterling
+	-- TJS
+	[62358] = true, -- Corrupt Droplet
+	[58319] = true, -- Lesser Sha
  ## Useful macros:
 	 - /ap cooldown
 	 - /ap burst
