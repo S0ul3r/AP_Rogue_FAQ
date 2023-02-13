@@ -10,6 +10,7 @@
 	- Kick - it will only use those spells for kickable spells
 	- Stun - it will only use those spells for unkickable but stunnable spells
 	- Both - it will only use those spells for kickable and stunnable spells
+- Wheatstone won't be used in single target, if you want it to be used in ST pop it manually. Won't add it to ST because it is too situational for M+ when you want to save it and when you want to pop it ST.
 ## Useful macros:
 	- /ap cooldown
 	- /awful cast Feint
