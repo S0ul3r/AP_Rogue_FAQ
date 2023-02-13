@@ -55,7 +55,7 @@
 	[58319] = true, -- Lesser Sha
  ## Useful macros:
 	 - /ap cooldown
-	 - /ap burst
+	 - /ap apburst
 ![Logs](https://i.imgur.com/twuUuJf.png)
 # Rogue: Assassination
 - Only good for terros fight, but even there I dont use it :)
