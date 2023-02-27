@@ -32,32 +32,10 @@
 - Burst toggle is affecting all major and minor CDs (I disable burst when tank is gathering packs in M+)
 - Prio Rota toggle - when enabled rotation will funnel targeted enemy
 
- ## Rupture mob blacklist 
-	-- Raid
-	[191714] = true, -- Seeking Stormling
-	-- RLP
-	[187894] = true, -- Infused Whelp
-	[190205] = true, -- Scorchling
-	[197509] = true, -- Primal Thundercloud
-	-- NO
-	[195579] = true, -- Primal Gust
-	-- AV
-	[187159] = true, -- Shrieking Whelp
-	[191313] = true, -- Volatile Sapling
-	[187242] = true, -- Tarasek Delver
-	-- AA
-	[197398] = true, -- Hungry Lasher
-	-- CoS
-	[104295] = true, -- Blazing Imp
-	[105703] = true, -- Mana Wyrm
-	-- SBG
-	[77006] = true, -- Corpse Skitterling
-	-- TJS
-	[62358] = true, -- Corrupt Droplet
-	[58319] = true, -- Lesser Sha
  ## Useful macros:
 	 - /ap cooldown
 	 - /ap apburst
+	 - /ap priority
 ![Logs](https://i.imgur.com/twuUuJf.png)
 # Rogue: Assassination
 - Only good for terros fight, but even there I dont use it :)
