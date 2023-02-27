@@ -30,6 +30,7 @@
 - Subtlety requires a bit more brain than outlaw so if you want to have good performance in M+ you need to manage your cds well, macros below help saving/popping them
 - Cooldown toggle is onlt affecting Shadow Blades
 - Burst toggle is affecting all major and minor CDs (I disable burst when tank is gathering packs in M+)
+- Prio Rota toggle - when enabled rotation will funnel targeted enemy
 
  ## Rupture mob blacklist 
 	-- Raid
