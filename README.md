@@ -21,6 +21,7 @@
 # Rogue: Outlaw
  - Adrenaline Rush is set up to Time To Die check, so if it isnt popped for some enemies (because they die to fast) and you want to use it anyway, pop it manually
  - KS/BR will only be used if we have energy deficit otherwise they are not worth using
+ - Mode: toggle is for specifying if you want to use Single Target only rotation or AUTO for automatic adapting for # of targets situation
  ## Useful macros:
 	 - /awful cast [@cursor] Grappling Hook
 	 - /ap KS_BR
