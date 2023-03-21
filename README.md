@@ -25,8 +25,8 @@
  ## Useful macros:
 	 - /awful cast [@cursor] Grappling Hook
 	 - /ap KS_BR
-![Logs](https://i.imgur.com/Jct1mlo.png)
-![M+ logs](https://cdn.discordapp.com/attachments/1037409177104027690/1075723230918217748/image.png)
+![Logs](https://i.imgur.com/Jct1mlo.png)\
+![M+ logs](https://cdn.discordapp.com/attachments/1037409177104027690/1075723230918217748/image.png)\
 
 # Rogue: Subtlety
 - Subtlety requires a bit more brain than outlaw so if you want to have good performance in M+ you need to manage your cds well, macros below help saving/popping them
@@ -38,10 +38,10 @@
 	 - /ap cooldown
 	 - /ap apburst
 	 - /ap priority
-![Logs](https://i.imgur.com/twuUuJf.png)
-![Logs](https://cdn.discordapp.com/attachments/1037409177104027690/1086711568059871335/image.png)
-![Logs](https://cdn.discordapp.com/attachments/1037409177104027690/1086712108240076930/image.png)
-![Logs](https://cdn.discordapp.com/attachments/1037409177104027690/1087744504225869905/image.png)
+![Logs](https://i.imgur.com/twuUuJf.png)\
+![Logs](https://cdn.discordapp.com/attachments/1037409177104027690/1086711568059871335/image.png)\
+![Logs](https://cdn.discordapp.com/attachments/1037409177104027690/1086712108240076930/image.png)\
+![Logs](https://cdn.discordapp.com/attachments/1037409177104027690/1087744504225869905/image.png)\
 
 # Rogue: Assassination
 - Only good for terros fight, but even there I dont use it :)
