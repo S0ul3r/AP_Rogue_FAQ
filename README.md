@@ -38,6 +38,7 @@
 	 - /ap apburst
 	 - /ap priority
 |![NO23](https://i.imgur.com/twuUuJf.png)|
+|:--:| 
 | *NO 23* |
 |![AA24](https://cdn.discordapp.com/attachments/1037409177104027690/1086711568059871335/image.png)|
 | *AA 24* |
