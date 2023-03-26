@@ -25,7 +25,7 @@
  ## Useful macros:
 	 - /awful cast [@cursor] Grappling Hook
 	 - /ap KS_BR
-![Logs](https://i.imgur.com/Jct1mlo.png)\
+![Logs](https://i.imgur.com/Jct1mlo.png)
 
 # Rogue: Subtlety
 - Subtlety requires a bit more brain than outlaw so if you want to have good performance in M+ you need to manage your cds well, macros below help saving/popping them
@@ -40,7 +40,7 @@
 	 
 |![NO23](https://i.imgur.com/twuUuJf.png) ![AA24](https://cdn.discordapp.com/attachments/1037409177104027690/1086711568059871335/image.png)|
 |:--:| 
-| *NO 23 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; AA 24* |
+| *NO 23 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; AA 24* |
 |![HoV22](https://cdn.discordapp.com/attachments/1037409177104027690/1086712108240076930/image.png) ![RLP23](https://cdn.discordapp.com/attachments/1037409177104027690/1087744504225869905/image.png)|
 | *HoV 22 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ RLP 23* |
 | ![HoV23](https://i.imgur.com/ONUroBQ.png) ![CoS23](https://i.imgur.com/TuwcLHZ.png) | 
