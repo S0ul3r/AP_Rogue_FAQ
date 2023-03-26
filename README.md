@@ -37,12 +37,10 @@
 	 - /ap cooldown
 	 - /ap apburst
 	 - /ap priority
-<pre>
+	 
 |![NO23](https://i.imgur.com/twuUuJf.png) ![AA24](https://cdn.discordapp.com/attachments/1037409177104027690/1086711568059871335/image.png)|
 |:--:| 
-| *NO 23*                                      *AA 24* |
-
-
+| *NO 23 $~~~~~~~~~~~$ AA 24* |
 |![HoV22](https://cdn.discordapp.com/attachments/1037409177104027690/1086712108240076930/image.png)|
 | *HoV 22* |
 |![RLP23](https://cdn.discordapp.com/attachments/1037409177104027690/1087744504225869905/image.png)|
@@ -55,7 +53,6 @@
 | *AA 23* |
 | ![AV21](https://i.imgur.com/q5OsQAY.png) | 
 | *AV 21* |
-</pre>
 
 # Rogue: Assassination
 - Only good for terros fight, but even there I dont use it :)
