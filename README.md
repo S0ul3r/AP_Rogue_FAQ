@@ -1,6 +1,7 @@
 
 # Always make sure you are not Kyrian covenant! (change to Necrolord, otherwise it will cause rotation to hang)
 # Rogue: All classes
+- Settings that I use are not much different than yours and they won't make you do more dmg
 - Interrupts with offGCD spells like kidney, cheap, gouge might not always work if you have interrupt % > 40
 - NN is not fully supported, so for now rogue rotation mgiht now work to fullest on this unlocker
 - Refresh time 0.1 is more than enough
