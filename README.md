@@ -17,8 +17,8 @@
 	- /awful cast Feint
 	- /awful cast [@cursor] Distract
 	- /cast [@focus]Tricks of the Trade
-	- /use 13
-	- /use 14
+	- /ap trinket1
+	- /ap trinket2
 # Rogue: Outlaw
  - Adrenaline Rush is set up to Time To Die check, so if it isnt popped for some enemies (because they die to fast) and you want to use it anyway, pop it manually
  - KS/BR will only be used if we have energy deficit otherwise they are not worth using
@@ -38,6 +38,8 @@
 	 - /ap cooldown
 	 - /ap apburst
 	 - /ap priority
+	 - /ap trinket1
+	 - /ap trinket2
 	 
 |![NO23](https://i.imgur.com/twuUuJf.png) ![AA24](https://cdn.discordapp.com/attachments/1037409177104027690/1086711568059871335/image.png)|
 |:--:| 
@@ -55,6 +57,8 @@
 - Only good for terros fight, but even there I dont use it :)
 ## Useful macros:
 	 - /ap cooldown
+	 - /ap trinket1
+	 - /ap trinket2
 I don't play that spec except for testing purposes so I don't have logs for it (if anyone has some share them with me I will add them if author agrees)
 # Rogue basic knowlege
 
