@@ -38,8 +38,6 @@
 	 - /ap cooldown
 	 - /ap apburst
 	 - /ap priority
-	 - /ap trinket1
-	 - /ap trinket2
 	 
 |![NO23](https://i.imgur.com/twuUuJf.png) ![AA24](https://cdn.discordapp.com/attachments/1037409177104027690/1086711568059871335/image.png)|
 |:--:| 
@@ -57,8 +55,7 @@
 - Only good for terros fight, but even there I dont use it :)
 ## Useful macros:
 	 - /ap cooldown
-	 - /ap trinket1
-	 - /ap trinket2
+	 
 I don't play that spec except for testing purposes so I don't have logs for it (if anyone has some share them with me I will add them if author agrees)
 # Rogue basic knowlege
 
